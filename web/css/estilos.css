@@ -1,0 +1,11 @@
+section {
+    height: 650px;
+}
+
+main>.container {
+    padding: 30px 0;
+}
+
+#Login {
+    max-width: 50% !important;
+}
