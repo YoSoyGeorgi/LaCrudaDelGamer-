@@ -1,6 +1,6 @@
-$(document).ready(function(){
+$(document).ready(function () {
     //menú vertical
-    $(".navbar-toggler").click(function(e) {
+    $(".navbar-toggler").click(function (e) {
         e.preventDefault();
         $("#navbarNav").toggleClass("active");
     });
