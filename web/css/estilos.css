@@ -1,14 +1,14 @@
-img.red{
+
+img.red {
     max-width: 50%;
     max-height: 50%;
 }
 
-
-main.prod{
+main.prod {
     margin-left: 5%;
 }
 
-img.redprod{
+img.redprod {
     max-width: 80%;
     max-height: 90%;
 }
@@ -22,10 +22,13 @@ main>.container {
     max-width: 50% !important;
 }
 
-section{
+#Registro {
+    max-width: 50% !important;
+}
+
+section {
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 10%;
     margin-bottom: 10%;
 }
-
